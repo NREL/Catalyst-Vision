@@ -8,6 +8,8 @@ The tool uses a robust computer vision pipeline based on the Euclidean Distance 
 
 This tool is developed by Dr. Steven Spurgeon at the National Renewable Energy Laboratory (NREL). NREL Sofware Record #SWR-25-100.
 
+For questions, please contact: steven.spurgeon@nrel.gov
+
 ## Features
 
 * **Automatic Mask Isolation:** Automatically detects and isolates a grayscale shape from a white or near-white background to create a high-fidelity binary mask.
