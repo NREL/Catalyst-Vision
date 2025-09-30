@@ -1,4 +1,4 @@
-# Morphological Analyzer for Pre-Masked Catalyst Layers
+# Catalyst Vision: Morphological Analyzer for Electrolyzer Catalyst Layers
 
 ## Project Description
 
@@ -9,6 +9,9 @@ The tool uses a robust computer vision pipeline based on the Euclidean Distance 
 This tool is developed by Dr. Steven Spurgeon at the National Renewable Energy Laboratory (NREL). NREL Sofware Record #SWR-25-100.
 
 For questions, please contact: steven.spurgeon@nrel.gov
+
+## How to Cite
+If you find this code useful, please cite our preprint as: Chan, Ai-Lin and Hayden, Steven and Harvey, Steven P. and Smeaton, Michelle and Okrucky, Caleb and Watt, John and Ulična, Soňa and Spurgeon, Steven and Jungjohann, Katherine and Alia, Shaun, Mechanism-informed breakdown: understanding degradation by controlling voltage hold patterns in PEM water electrolyzers. Preprint (2025). https://doi.org/10.2139/ssrn.5534899
 
 ## Features
 
